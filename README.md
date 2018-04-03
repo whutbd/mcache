@@ -4,7 +4,7 @@
 ![原理图](https://github.com/whutbd/mcache/blob/master/mcache.jpg)
 
 
-##简介
+# 简介
 
 * mcache是一种定长cache,初始化的时候必须制定cache的size和cache的block块个数
 * mcach是非线程安全的，在多线程环境下使用必须业务自己加锁
